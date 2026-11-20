@@ -1,3 +1,11 @@
+/*
+    dksopworelw.exe, coded by DaniloSenseiPlus
+
+    my first layered window malware
+
+    and Mazeicon sucks because he probably gonna skid me
+*/
+
 #include <windows.h>
 #include <cmath>
 #include <vector>
